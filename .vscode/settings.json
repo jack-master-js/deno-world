@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "Deno",
+        "denodb",
+        "middlewares"
+    ],
+    "deno.enable": true,
+    "deno.lint": false,
+    "deno.unstable": true
+}
